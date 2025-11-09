@@ -144,4 +144,4 @@ title(' Frequency Response of Butterworth IIR HPF');
 
 
 ## RESULT:
-To design an IIR Butterworth filter (LPF & HPF) using SCILAB was successfully ececuted.
+To design an IIR Butterworth filter (LPF & HPF) using SCILAB was successfully executed.
